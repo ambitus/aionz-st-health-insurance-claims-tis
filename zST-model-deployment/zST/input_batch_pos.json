@@ -1,0 +1,1 @@
+{"inputs":[{"name":"IN0","shape":[1,23],"datatype":"BYTES","data":[["5000","3","1","Yes","Salaried","2","150 to 175","4866","28","Yes", "No", "Male", "97", "31.2", "Unknown", "0.0", "Chennai", "67", "N", "Rare", "Moderate", "1", "25"]]}],"outputs":[{"name":"OUT0"}]}
